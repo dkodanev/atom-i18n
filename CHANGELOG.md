@@ -1,3 +1,8 @@
+## 0.7.2 - Dutch support
+* Dutch support update (80%)
+* Russian support update (99%)
+
+
 ## 0.7.1 - welcome page support
 * welcome page i18n #60
 * fix #66 to support 1.16-beta DOM structure in settings page
