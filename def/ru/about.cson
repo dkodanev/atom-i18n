@@ -1,7 +1,7 @@
 About:
-  tabTitle: "О Atom"
+  tabTitle: "Об Atom"
   releaseNotes: "Список изменений"
-  newUpdate: "Новое обновление"
+  newUpdate: "Свежее обновление"
   upToDate: "Atom обновлен!"
   checkingForUpdates: "Проверка обновлений..."
   checkUpdatesNow: "Проверить сейчас"
